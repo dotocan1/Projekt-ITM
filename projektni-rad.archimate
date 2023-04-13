@@ -59,11 +59,11 @@
     <element xsi:type="archimate:BusinessActor" name="Odjel za odnose s kupcima" id="id-b26c4d4761bf47aa96d38e0be0595bf0"/>
     <element xsi:type="archimate:BusinessActor" name="Odjel za marketing" id="id-406e3f76b3744bb7bfa18f1e1f5cfae4"/>
     <element xsi:type="archimate:BusinessActor" name="Business Actor" id="id-ae0ce96658aa4b5aa6d036eb7c539bd4"/>
-    <element xsi:type="archimate:BusinessActor" name="Business Actor" id="id-46912ca909a64f69a1ca675980bfd811"/>
+    <element xsi:type="archimate:BusinessActor" name="Back Office" id="id-46912ca909a64f69a1ca675980bfd811"/>
     <element xsi:type="archimate:BusinessActor" name="Odjel za administraciju" id="id-dbd2cc58f42b48709776f78c8d5a1162"/>
     <element xsi:type="archimate:BusinessActor" name="Odjel za IT potporu" id="id-1ad6f703e303469b8015b86ca9c004f5"/>
     <element xsi:type="archimate:BusinessActor" name="Odjel za e-trgovinu" id="id-76412dc741f3407b9b463f4b82b1696d"/>
-    <element xsi:type="archimate:BusinessActor" name="Odjel digitalizacije" id="id-7a1df00d6e0b44b4ba54a8c0e993bc40"/>
+    <element xsi:type="archimate:BusinessActor" name="Odjel za mobilnu aplikaciju" id="id-7a1df00d6e0b44b4ba54a8c0e993bc40"/>
   </folder>
   <folder name="Application" id="id-54322386f28848d393da28fb9797fcb9" type="application"/>
   <folder name="Technology &amp; Physical" id="id-ec8933b49f334f638572206e79dd6ae2" type="technology"/>
