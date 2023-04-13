@@ -192,7 +192,7 @@
           <bounds x="228" y="588" width="120" height="55"/>
         </child>
       </element>
-      <element xsi:type="archimate:ArchimateDiagramModel" name="BusinessProcesViewpoint" id="id-e11ae7ee0f61490dbd646c6d7f0df485">
+      <element xsi:type="archimate:ArchimateDiagramModel" name="BusinessProcessViewpoint" id="id-e11ae7ee0f61490dbd646c6d7f0df485">
         <child xsi:type="archimate:DiagramObject" id="id-3714cd06d3ec4d1fbce3be1cde43b0fc" archimateElement="id-e90139664b744584895582986b7e0c22">
           <bounds x="-264" y="429" width="120" height="55"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-4bf8c9d483f148b583a7f33afdb39d63" source="id-3714cd06d3ec4d1fbce3be1cde43b0fc" target="id-0712926ca99a4522a4316b8136648782" archimateRelationship="id-6c94fe01a2fe42998e4eb8bb6c38262f"/>
@@ -238,7 +238,7 @@
           <sourceConnection xsi:type="archimate:Connection" id="id-9f359d16f5824bff979b6e4c061e878e" source="id-4ff809b542354b76be8bec414815f1c1" target="id-3a3a5486b38b47d8a7284815a6bae411" archimateRelationship="id-f6a1abc14ad047059235de87de4fa43c"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-6ab7577cada947aa87e361cee31c0065" archimateElement="id-9f4e7176ef73449cb722f87b5ed7ff3d">
-          <bounds x="264" y="884" width="120" height="55"/>
+          <bounds x="264" y="884" width="120" height="76"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-48f8d2620743453e9ee7c9d709bbc45b" source="id-6ab7577cada947aa87e361cee31c0065" target="id-ae82151949924ad3833ef30e6e7ffa52" archimateRelationship="id-07c5b61220b24d9a89c4d9f7fcb48ab9"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-ae82151949924ad3833ef30e6e7ffa52" targetConnections="id-48f8d2620743453e9ee7c9d709bbc45b" archimateElement="id-dffdd045b6b9439ca40a397f55e7f4e7">
